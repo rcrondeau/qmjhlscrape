@@ -1,0 +1,447 @@
+Season,Name,Position,Draft.Eligible,Team,Birth Date,GP,PPG,PPA1,PPA2,PPPTS,PRIMARY.PPPTS,PERC.PPPTS,PERC.TEAM.PPPTS
+2017-18 | Regular Season,"Paquette-Bisson, Tobie",D,N,"Blainville-Boisbriand, Armada",1997-02-01,59,0,2,3,5,2,0.19,0.02
+2017-18 | Regular Season,"Roy, Hugo",F,N,"Sherbrooke, Phoenix",1997-08-08,64,6,7,4,17,13,0.36,0.1
+2017-18 | Regular Season,"Mongo, Yvan",F,N,"Drummondville, Voltigeurs",1997-03-11,58,2,1,4,7,3,0.15,0.04
+2017-18 | Regular Season,"Roy, Charlie",D,N,"Blainville-Boisbriand, Armada",1997-06-10,5,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Boucher, Matthew",F,N,"Québec, Remparts",1997-12-17,66,14,6,7,27,20,0.4,0.14
+2017-18 | Regular Season,"Lalonde, Bradley",D,N,"Baie-Comeau, Drakkar",1997-08-01,60,6,19,9,34,25,0.6,0.19
+2017-18 | Regular Season,"Blier, Samuel",F,N,"Shawinigan, Cataractes",1997-06-13,57,2,3,2,7,5,0.28,0.05
+2017-18 | Regular Season,"Askew, Cameron",F,N,"Charlottetown, Islanders",1997-05-13,63,6,2,4,12,8,0.32,0.09
+2017-18 | Regular Season,"Barré-Boulet, Alex",F,N,"Blainville-Boisbriand, Armada",1997-05-21,65,19,16,14,49,35,0.42,0.22
+2017-18 | Regular Season,"Alain, Alexandre",F,N,"Blainville-Boisbriand, Armada",1997-03-03,65,21,5,9,35,26,0.4,0.16
+2017-18 | Regular Season,"Aquin, Pascal",F,N,"Charlottetown, Islanders",1997-07-03,59,7,1,0,8,8,0.19,0.06
+2017-18 | Regular Season,"Fortier, Maxime",F,N,"Halifax, Mooseheads",1997-12-15,61,6,8,2,16,14,0.21,0.1
+2017-18 | Regular Season,"Ford, Taylor",D,N,"Rouyn-Noranda, Huskies",1997-05-14,46,0,0,1,1,0,0.09,0
+2017-18 | Regular Season,"Moynihan, Connor",F,N,"Halifax, Mooseheads",1997-07-20,66,4,0,2,6,4,0.14,0.04
+2017-18 | Regular Season,"Holwell, Adam",D,N,"Acadie-Bathurst, Titan",1997-03-08,67,2,13,5,20,15,0.4,0.09
+2017-18 | Regular Season,"Bower, William",F,N,"Charlottetown, Islanders",1997-11-07,8,1,0,0,1,1,1,0.01
+2017-18 | Regular Season,"Olivier, Mathieu",F,N,"Sherbrooke, Phoenix",1997-02-11,67,8,3,2,13,11,0.27,0.08
+2017-18 | Regular Season,"Cormier, Lane",F,N,"Rouyn-Noranda, Huskies",1997-02-11,5,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Lanoue, Vincent",D,N,"Victoriaville, Tigres",1997-08-17,66,3,4,14,21,7,0.45,0.1
+2017-18 | Regular Season,"Picco, Andrew",D,N,"Québec, Remparts",1997-04-02,56,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Thompson, Will",D,N,"Gatineau, Olympiques",1997-07-02,60,1,5,3,9,6,0.35,0.04
+2017-18 | Regular Season,"Dove-McFalls, Samuel",F,N,"Rimouski, Océanic",1997-04-10,64,3,9,5,17,12,0.23,0.11
+2017-18 | Regular Season,"Webster, Bailey",D,N,"Saint John, Sea Dogs",1997-09-08,67,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Phelan, James",F,N,"Moncton, Wildcats",1997-02-18,64,13,7,9,29,20,0.39,0.15
+2017-18 | Regular Season,"Welsh, Nicholas",D,N,"Moncton, Wildcats",1997-05-07,68,9,12,11,32,21,0.48,0.17
+2017-18 | Regular Season,"Harwell, Chase",F,N,"Victoriaville, Tigres",1997-01-11,67,4,3,3,10,7,0.23,0.05
+2017-18 | Regular Season,"Truchon-Viel, Jeffrey",F,N,"Acadie-Bathurst, Titan",1997-01-28,58,12,3,1,16,15,0.26,0.08
+2017-18 | Regular Season,"Henley, David",D,N,"Val-d'Or, Foreurs",1997-03-13,54,5,2,4,11,7,0.55,0.09
+2017-18 | Regular Season,"Galipeau, Olivier",D,N,"Acadie-Bathurst, Titan",1997-05-22,67,8,16,8,32,24,0.43,0.2
+2017-18 | Regular Season,"Fournier, Jordan Ty",F,N,"Cape Breton, Screaming Eagles",1997-04-04,67,3,0,1,4,3,0.12,0.02
+2017-18 | Regular Season,"Nadeau, Mathieu",F,N,"Rimouski, Océanic",1997-01-03,59,10,9,10,29,19,0.39,0.24
+2017-18 | Regular Season,"Maher, Jordan",F,N,"Acadie-Bathurst, Titan",1998-03-11,63,6,2,12,20,8,0.33,0.09
+2017-18 | Regular Season,"Francis, Elijah",D,N,"Acadie-Bathurst, Titan",1998-03-05,54,0,0,1,1,0,0.12,0
+2017-18 | Regular Season,"Boivin, Félix",D,N,"Victoriaville, Tigres",1998-03-11,68,5,3,2,10,8,0.34,0.05
+2017-18 | Regular Season,"Huntington, Jimmy",F,N,"Victoriaville, Tigres",1998-11-18,68,4,4,8,16,8,0.28,0.08
+2017-18 | Regular Season,"Beauchamp, Anthony",F,N,"Gatineau, Olympiques",1998-10-23,65,3,2,2,7,5,0.25,0.04
+2017-18 | Regular Season,"Chevrier, Simon",F,N,"Baie-Comeau, Drakkar",1997-05-19,58,2,2,1,5,4,0.19,0.03
+2017-18 | Regular Season,"Katerinakis, Alexander",F,N,"Blainville-Boisbriand, Armada",1998-04-25,51,0,3,2,5,3,0.12,0.02
+2017-18 | Regular Season,"Hylland, Tyler",F,N,"Cape Breton, Screaming Eagles",1998-04-21,57,0,4,1,5,4,0.18,0.02
+2017-18 | Regular Season,"Adams-Moisan, Morgan",F,N,"Drummondville, Voltigeurs",1997-02-06,68,12,5,2,19,17,0.31,0.1
+2017-18 | Regular Season,"Castonguay, Daven",D,N,"Drummondville, Voltigeurs",1998-05-21,57,0,0,0,0,0,0,0
+2017-18 | Regular Season,"King, Sam",F,N,"Charlottetown, Islanders",1998-05-11,68,0,2,0,2,2,0.08,0.02
+2017-18 | Regular Season,"Corbeil, Pascal",D,N,"Blainville-Boisbriand, Armada",1998-01-21,46,0,13,15,28,13,0.55,0.13
+2017-18 | Regular Season,"Beaudin, Jérémie",D,N,"Victoriaville, Tigres",1998-05-14,66,4,7,2,13,11,0.37,0.06
+2017-18 | Regular Season,"L'Italien, Samuel",F,N,"Acadie-Bathurst, Titan",1998-04-13,68,6,1,1,8,7,0.18,0.04
+2017-18 | Regular Season,"Martineau, Phélix",F,N,"Cape Breton, Screaming Eagles",1997-06-03,68,12,8,4,24,20,0.36,0.12
+2017-18 | Regular Season,"Balmas, Mitchell",F,N,"Acadie-Bathurst, Titan",1998-03-19,68,15,8,7,30,23,0.42,0.16
+2017-18 | Regular Season,"Guilbault, Samuel",F,N,"Shawinigan, Cataractes",1998-04-09,12,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Smith, Andrew",D,N,"Victoriaville, Tigres",1998-03-18,62,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Getson, Keith",F,N,"Charlottetown, Islanders",1998-03-29,68,7,4,4,15,11,0.31,0.11
+2017-18 | Regular Season,"Wojcik, Anthony",F,N,"Québec, Remparts",1998-05-29,9,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Bélanger, Jean-Simon",F,N,"Baie-Comeau, Drakkar",1998-03-03,27,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Gagné, Benjamin",D,N,"Québec, Remparts",1998-10-22,66,2,3,6,11,5,0.29,0.06
+2017-18 | Regular Season,"Sévigny, Mathieu",F,N,"Victoriaville, Tigres",1998-03-12,41,6,1,1,8,7,0.27,0.04
+2017-18 | Regular Season,"Laberge, Pascal",F,N,"Québec, Remparts",1998-04-09,64,6,3,5,14,9,0.3,0.07
+2017-18 | Regular Season,"Landreville, Alexandre",F,N,"Gatineau, Olympiques",1997-04-24,68,3,5,3,11,8,0.3,0.06
+2017-18 | Regular Season,"Crossley, Brett",F,N,"Halifax, Mooseheads",1998-01-03,66,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Dachyshyn, Barrett",F,N,"Halifax, Mooseheads",1998-10-05,52,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Nauss, Morgan",D,N,"Chicoutimi, Saguenéens",1998-04-20,60,1,2,6,9,3,0.32,0.06
+2017-18 | Regular Season,"Corson, Noah",F,N,"Baie-Comeau, Drakkar",1998-03-17,10,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Murphy, Liam",F,N,"Acadie-Bathurst, Titan",1998-01-20,65,6,4,0,10,10,0.26,0.05
+2017-18 | Regular Season,"Tesink, Marcus",D,N,"Saint John, Sea Dogs",1998-08-05,15,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Duquette, Marc-Olivier",D,N,"Drummondville, Voltigeurs",1998-03-26,68,1,0,0,1,1,0.05,0.01
+2017-18 | Regular Season,"Sutton, Jesse",F,N,"Québec, Remparts",1998-03-28,68,2,5,6,13,7,0.28,0.07
+2017-18 | Regular Season,"Garneau, Olivier",F,N,"Québec, Remparts",1998-07-21,67,11,6,1,18,17,0.36,0.09
+2017-18 | Regular Season,"Demers, Pierre-Olivier",D,N,"Victoriaville, Tigres",1998-03-21,11,0,0,0,0,0,,0
+2017-18 | Regular Season,"Fortin, Louis-Philip",D,N,"Acadie-Bathurst, Titan",1998-01-24,13,0,0,0,0,0,,0
+2017-18 | Regular Season,"MacDougall, Ross",D,N,"Cape Breton, Screaming Eagles",1997-03-06,42,5,9,3,17,14,0.55,0.08
+2017-18 | Regular Season,"Cormier, Dominic",D,N,"Rimouski, Océanic",1998-01-02,66,1,6,7,14,7,0.3,0.07
+2017-18 | Regular Season,"Neveu, Jacob",D,N,"Rouyn-Noranda, Huskies",1998-01-12,67,0,0,1,1,0,0.06,0
+2017-18 | Regular Season,"Lauzon, Zachary",D,N,"Rouyn-Noranda, Huskies",1998-10-10,25,0,0,1,1,0,0.25,0
+2017-18 | Regular Season,"Abbandonato, Peter",F,N,"Rouyn-Noranda, Huskies",1998-03-25,68,8,11,6,25,19,0.33,0.12
+2017-18 | Regular Season,"Boucher, Mathieu",F,N,"Rouyn-Noranda, Huskies",1997-04-19,66,9,4,3,16,13,0.25,0.08
+2017-18 | Regular Season,"Green, Luke",D,N,"Sherbrooke, Phoenix",1998-01-12,14,1,1,4,6,2,0.4,0.04
+2017-18 | Regular Season,"Tessier, Julien",F,N,"Moncton, Wildcats",1998-04-01,67,7,6,1,14,13,0.26,0.07
+2017-18 | Regular Season,"Green, Matt",F,N,"Saint John, Sea Dogs",1998-01-12,34,1,0,0,1,1,0.1,0.01
+2017-18 | Regular Season,"Smith, Declan",F,N,"Cape Breton, Screaming Eagles",1998-05-07,65,3,2,1,6,5,0.16,0.03
+2017-18 | Regular Season,"Ward, Kyle",F,N,"Rouyn-Noranda, Huskies",1997-12-29,8,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Girard, Samuel",D,N,"Shawinigan, Cataractes",1998-05-12,0,0,0,0,0,0,,0
+2017-18 | Regular Season,"Sylvestre, Gabriel",D,N,"Moncton, Wildcats",1998-01-22,60,0,0,1,1,0,0.05,0.01
+2017-18 | Regular Season,"Asselin, Samuel",F,N,"Acadie-Bathurst, Titan",1998-07-01,48,5,0,7,12,5,0.29,0.09
+2017-18 | Regular Season,"Paré, Justin",F,N,"Victoriaville, Tigres",1998-01-31,31,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Grégoire, Thomas",D,N,"Sherbrooke, Phoenix",1998-07-15,67,6,20,6,32,26,0.46,0.19
+2017-18 | Regular Season,"Poulin, Nicolas",F,N,"Sherbrooke, Phoenix",1997-07-24,64,9,3,1,13,12,0.2,0.08
+2017-18 | Regular Season,"Gilbert, Kevin",F,N,"Sherbrooke, Phoenix",1998-03-24,57,3,2,1,6,5,0.24,0.04
+2017-18 | Regular Season,"Bilodeau, Gabriel",D,N,"Gatineau, Olympiques",1998-06-04,66,4,2,15,21,6,0.6,0.11
+2017-18 | Regular Season,"Higgins, Tyler",D,N,"Gatineau, Olympiques",1998-08-02,51,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Desjardins, Olivier",D,N,"Charlottetown, Islanders",1997-05-31,66,0,1,0,1,1,0.08,0.01
+2017-18 | Regular Season,"Dion, Yan",F,N,"Val-d'Or, Foreurs",1998-05-05,64,1,0,1,2,1,0.08,0.02
+2017-18 | Regular Season,"Lauzon, Félix",F,N,"Victoriaville, Tigres",1998-04-30,38,3,4,2,9,7,0.29,0.04
+2017-18 | Regular Season,"Breton, Alex",D,N,"Gatineau, Olympiques",1997-07-05,59,6,13,3,22,19,0.56,0.12
+2017-18 | Regular Season,"Bertrand, Yannik",F,N,"Rimouski, Océanic",1997-11-12,24,4,1,1,6,5,0.46,0.04
+2017-18 | Regular Season,"Marsh, Adam",F,N,"Charlottetown, Islanders",1997-08-22,19,3,1,2,6,4,0.4,0.05
+2017-18 | Regular Season,"Theede, Dawson",F,N,"Acadie-Bathurst, Titan",1997-04-15,49,7,8,0,15,15,0.34,0.08
+2017-18 | Regular Season,"Morand, Antoine",F,N,"Acadie-Bathurst, Titan",1999-02-18,66,5,12,8,25,17,0.33,0.12
+2017-18 | Regular Season,"Gravel, Jérôme",D,N,"Victoriaville, Tigres",1999-08-27,64,1,0,0,1,1,0.04,0
+2017-18 | Regular Season,"Ryczek, Jake",D,N,"Halifax, Mooseheads",1998-03-19,33,2,1,3,6,3,0.22,0.04
+2017-18 | Regular Season,"LeCouffe, Marc-André",F,N,"Acadie-Bathurst, Titan",1999-06-15,40,1,0,0,1,1,0.12,0
+2017-18 | Regular Season,"Aucoin, Yan",D,N,"Baie-Comeau, Drakkar",1999-08-01,62,0,1,2,3,1,0.18,0.02
+2017-18 | Regular Season,"Capannelli, Adam",F,N,"Moncton, Wildcats",1999-05-17,42,1,3,3,7,4,0.3,0.04
+2017-18 | Regular Season,"Benoit, Christopher",F,N,"Baie-Comeau, Drakkar",1999-05-31,68,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Girard, Antoine",F,N,"Baie-Comeau, Drakkar",1998-09-22,50,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Tardif, Louis Jr",D,N,"Baie-Comeau, Drakkar",1999-02-11,68,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Martel, Jordan",F,N,"Baie-Comeau, Drakkar",1998-02-24,66,13,10,6,29,23,0.38,0.16
+2017-18 | Regular Season,"Gallo-Demetris, Isaiah",F,N,"Baie-Comeau, Drakkar",1999-03-09,50,2,0,0,2,2,0.12,0.01
+2017-18 | Regular Season,"Crête-Belzile, Antoine",D,N,"Blainville-Boisbriand, Armada",1999-08-19,51,1,1,0,2,2,0.2,0.01
+2017-18 | Regular Season,"Teasdale, Joël",F,N,"Blainville-Boisbriand, Armada",1999-03-11,65,12,13,4,29,25,0.45,0.13
+2017-18 | Regular Season,"Poulin, Anthony",F,N,"Blainville-Boisbriand, Armada",1999-08-26,40,2,2,2,6,4,0.32,0.03
+2017-18 | Regular Season,"Boucher, Anthony",F,N,"Saint John, Sea Dogs",1998-06-25,68,3,6,4,13,9,0.34,0.1
+2017-18 | Regular Season,"Miller, Shaun",F,N,"Blainville-Boisbriand, Armada",1999-06-04,47,1,2,2,5,3,0.19,0.02
+2017-18 | Regular Season,"Ethier, Thomas",F,Y,"Blainville-Boisbriand, Armada",1999-10-12,65,6,0,1,7,6,0.21,0.03
+2017-18 | Regular Season,"Kemp, Michael",D,N,"Blainville-Boisbriand, Armada",1998-03-03,46,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Anglehart, Rémy",F,N,"Blainville-Boisbriand, Armada",1999-06-19,58,2,1,0,3,3,0.09,0.01
+2017-18 | Regular Season,"Hoyt, Peyton",F,N,"Cape Breton, Screaming Eagles",1999-02-18,52,1,0,0,1,1,0.04,0
+2017-18 | Regular Season,"Roy, Sacha",D,N,"Cape Breton, Screaming Eagles",1999-04-05,55,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Sansfaçon, Alexis",D,N,"Blainville-Boisbriand, Armada",1999-03-09,60,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Batherson, Drake",F,N,"Blainville-Boisbriand, Armada",1998-04-27,51,12,8,10,30,20,0.39,0.14
+2017-18 | Regular Season,"Boudrias, Shawn",F,N,"Gatineau, Olympiques",1999-09-14,60,12,7,7,26,19,0.43,0.14
+2017-18 | Regular Season,"Joseph, Pierre-Olivier",D,N,"Charlottetown, Islanders",1999-07-01,63,5,11,5,21,16,0.46,0.16
+2017-18 | Regular Season,"Grouchy, Matthew",F,Y,"Charlottetown, Islanders",1999-11-19,63,5,3,4,12,8,0.35,0.09
+2017-18 | Regular Season,"Groleau, Jérémy",D,Y,"Chicoutimi, Saguenéens",1999-10-25,63,0,0,1,1,0,0.07,0.01
+2017-18 | Regular Season,"MacIsaac, Keenan",D,N,"Acadie-Bathurst, Titan",1999-04-01,68,2,6,4,12,8,0.4,0.06
+2017-18 | Regular Season,"Guay, Nicolas",F,N,"Drummondville, Voltigeurs",1999-06-18,68,8,5,2,15,13,0.27,0.08
+2017-18 | Regular Season,"Noël, David",D,N,"Val-d'Or, Foreurs",1999-04-10,68,6,6,5,17,12,0.37,0.14
+2017-18 | Regular Season,"Lavigne, Zachary",F,N,"Chicoutimi, Saguenéens",1998-11-10,44,2,3,2,7,5,0.24,0.04
+2017-18 | Regular Season,"Desgroseilliers, Nicolas",F,N,"Drummondville, Voltigeurs",1998-05-26,22,1,0,0,1,1,0.2,0.01
+2017-18 | Regular Season,"Tremblay-Lapalme, Vincent",F,N,"Chicoutimi, Saguenéens",1999-03-15,64,4,0,0,4,4,0.17,0.03
+2017-18 | Regular Season,"Gagné, Marc-Antoine",F,N,"Chicoutimi, Saguenéens",1999-01-21,15,1,0,0,1,1,0.5,0.01
+2017-18 | Regular Season,"Gaboury-Potvin, Alexis",F,N,"Chicoutimi, Saguenéens",1999-03-10,28,0,0,1,1,0,0.17,0.01
+2017-18 | Regular Season,"Poirier, William",F,Y,"Saint John, Sea Dogs",1999-11-13,65,1,1,0,2,2,0.1,0.02
+2017-18 | Regular Season,"Beaudin, Nicolas",D,Y,"Drummondville, Voltigeurs",1999-10-07,68,5,9,19,33,14,0.48,0.18
+2017-18 | Regular Season,"Gaumond, Samuel",F,N,"Rimouski, Océanic",1999-02-01,11,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Côté, Jérémy",F,N,"Victoriaville, Tigres",1999-05-03,52,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Gagnon, Anthony",F,N,"Gatineau, Olympiques",1999-02-22,67,1,0,3,4,1,0.17,0.02
+2017-18 | Regular Season,"Joly, D'Artagnan",F,N,"Baie-Comeau, Drakkar",1999-04-07,55,7,8,6,21,15,0.31,0.12
+2017-18 | Regular Season,"Durocher, Jeffrey",F,N,"Gatineau, Olympiques",1999-01-13,63,4,0,8,12,4,0.33,0.07
+2017-18 | Regular Season,"Paradis, Joakim",D,N,"Baie-Comeau, Drakkar",1999-07-27,43,0,1,0,1,1,0.1,0.01
+2017-18 | Regular Season,"Basque, William",F,N,"Gatineau, Olympiques",1999-04-10,33,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Milot-Ouellet, Vincent",F,N,"Chicoutimi, Saguenéens",1998-11-06,68,1,1,0,2,2,0.11,0.01
+2017-18 | Regular Season,"Lacombe, Pier-Olivier",D,N,"Gatineau, Olympiques",1999-07-24,65,5,10,3,18,15,0.53,0.1
+2017-18 | Regular Season,"Durandeau, Arnaud",F,N,"Halifax, Mooseheads",1999-01-14,67,3,2,2,7,5,0.13,0.04
+2017-18 | Regular Season,"Flower, Walter",D,N,"Halifax, Mooseheads",1999-05-07,43,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Lepage, Jordan",D,N,"Halifax, Mooseheads",1999-05-07,47,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Charlebois, Mathieu",D,N,"Gatineau, Olympiques",1999-02-14,61,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Bishop, Joel",F,N,"Halifax, Mooseheads",1999-05-07,53,1,0,0,1,1,0.06,0.01
+2017-18 | Regular Season,"Higgins, Ben",F,N,"Halifax, Mooseheads",1999-02-04,65,1,0,0,1,1,0.08,0.01
+2017-18 | Regular Season,"Jones, Cooper",D,N,"Halifax, Mooseheads",1998-06-09,53,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Cyr, Mika",F,N,"Moncton, Wildcats",1999-07-14,44,4,5,2,11,9,0.28,0.06
+2017-18 | Regular Season,"Crossman, Ethan",F,N,"Acadie-Bathurst, Titan",1999-03-13,66,6,3,5,14,9,0.32,0.07
+2017-18 | Regular Season,"Aspirot, Jonathan",D,N,"Moncton, Wildcats",1999-05-16,67,1,0,1,2,1,0.08,0.01
+2017-18 | Regular Season,"McKenna, Jeremy",F,N,"Moncton, Wildcats",1999-04-20,68,10,8,5,23,18,0.3,0.12
+2017-18 | Regular Season,"MacArthur, Brodie",F,N,"Moncton, Wildcats",1999-04-23,1,0,0,0,0,0,,0
+2017-18 | Regular Season,"Gentile, Derek",F,N,"Charlottetown, Islanders",1999-04-09,67,7,7,4,18,14,0.3,0.14
+2017-18 | Regular Season,"Robidoux, Mikael",F,N,"Québec, Remparts",1999-04-17,41,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Huntley, Christian",D,N,"Québec, Remparts",1999-03-02,61,3,8,6,17,11,0.45,0.09
+2017-18 | Regular Season,"Verrette, Etienne",D,N,"Québec, Remparts",1998-12-21,56,0,1,1,2,1,0.11,0.01
+2017-18 | Regular Season,"Voyer, Alex-Olivier",F,N,"Rimouski, Océanic",1999-04-10,55,3,1,4,8,4,0.25,0.05
+2017-18 | Regular Season,"MacKinnon, Carson",F,N,"Rimouski, Océanic",1999-08-02,65,0,1,2,3,1,0.09,0.02
+2017-18 | Regular Season,"D'Astous, Charle-Edouard",D,N,"Rimouski, Océanic",1998-04-21,59,6,7,3,16,13,0.29,0.11
+2017-18 | Regular Season,"Girard, Alexis",D,Y,"Saint John, Sea Dogs",1999-12-22,62,2,1,3,6,3,0.24,0.05
+2017-18 | Regular Season,"Trépanier, Maxim",F,N,"Gatineau, Olympiques",1999-05-15,52,4,3,1,8,7,0.24,0.04
+2017-18 | Regular Season,"Cormier, Dominic",F,N,"Rimouski, Océanic",1999-07-27,10,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Forest, Wilson",D,N,"Rimouski, Océanic",1998-03-11,67,3,5,1,9,8,0.43,0.06
+2017-18 | Regular Season,"Côté, Louis-Filip",F,N,"Québec, Remparts",1999-05-02,68,0,0,1,1,0,0.04,0.01
+2017-18 | Regular Season,"Bibeau, Félix",F,N,"Rouyn-Noranda, Huskies",1999-03-31,61,10,10,9,29,20,0.47,0.14
+2017-18 | Regular Season,"Després, Hugo",F,N,"Rouyn-Noranda, Huskies",1999-07-18,35,2,1,1,4,3,0.24,0.02
+2017-18 | Regular Season,"Cyr, William",D,N,"Rouyn-Noranda, Huskies",1999-05-06,65,8,8,12,28,16,0.61,0.14
+2017-18 | Regular Season,"Harvey-Pinard, Rafaël",F,N,"Rouyn-Noranda, Huskies",1999-01-06,67,9,15,6,30,24,0.39,0.15
+2017-18 | Regular Season,"Naud, Samuel",F,Y,"Rouyn-Noranda, Huskies",1999-10-16,60,0,0,2,2,0,0.18,0.01
+2017-18 | Regular Season,"Diotte, Jérémy",D,N,"Chicoutimi, Saguenéens",1999-06-07,66,1,3,8,12,4,0.4,0.08
+2017-18 | Regular Season,"Veleno, Joe",F,Y,"Drummondville, Voltigeurs",2000-01-13,64,5,17,14,36,22,0.46,0.2
+2017-18 | Regular Season,"Paré, Cédric",F,N,"Saint John, Sea Dogs",1999-01-24,60,6,5,4,15,11,0.41,0.11
+2017-18 | Regular Season,"Martineau, Vincent",D,N,"Rimouski, Océanic",1999-05-02,10,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Reid, Ben",F,N,"Saint John, Sea Dogs",1999-06-04,35,1,0,0,1,1,0.09,0.01
+2017-18 | Regular Season,"Smallwood, Ian",D,N,"Cape Breton, Screaming Eagles",1999-01-22,36,0,0,2,2,0,0.2,0.01
+2017-18 | Regular Season,"Lafrenière, Alexandre",F,N,"Saint John, Sea Dogs",1999-05-20,14,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Leblanc, Samuel",F,N,"Blainville-Boisbriand, Armada",1999-06-18,41,1,0,0,1,1,0.2,0
+2017-18 | Regular Season,"Chainey, Jocktan",D,N,"Halifax, Mooseheads",1999-09-08,66,2,6,7,15,8,0.38,0.09
+2017-18 | Regular Season,"Cardinal, Tommy",F,N,"Shawinigan, Cataractes",1999-01-14,63,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Fortin, Jérémy",F,N,"Chicoutimi, Saguenéens",1999-07-09,62,0,1,0,1,1,0.08,0.01
+2017-18 | Regular Season,"Benoit, Simon",D,N,"Shawinigan, Cataractes",1998-09-19,63,3,3,5,11,6,0.39,0.08
+2017-18 | Regular Season,"Senez, Vincent",F,N,"Shawinigan, Cataractes",1998-09-11,48,3,3,1,7,6,0.24,0.05
+2017-18 | Regular Season,"Pouliot, Xavier",D,N,"Chicoutimi, Saguenéens",1998-12-22,52,0,2,0,2,2,0.33,0.01
+2017-18 | Regular Season,"Imbeault, Jason",F,N,"Rimouski, Océanic",1999-01-22,21,0,1,1,2,1,0.25,0.01
+2017-18 | Regular Season,"Roy, Nicolas",F,N,"Sherbrooke, Phoenix",1999-05-19,58,0,0,1,1,0,0.11,0.01
+2017-18 | Regular Season,"Lampron, Vincent",D,N,"Gatineau, Olympiques",1998-12-09,57,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Rafuse, Cole",F,N,"Acadie-Bathurst, Titan",1999-01-05,66,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Cheezo, Adam",F,N,"Val-d'Or, Foreurs",1998-11-02,52,5,2,3,10,7,0.28,0.08
+2017-18 | Regular Season,"Racicot, Médérick",D,N,"Val-d'Or, Foreurs",1999-03-10,61,1,0,1,2,1,0.11,0.02
+2017-18 | Regular Season,"Lafrance, Simon",F,N,"Val-d'Or, Foreurs",1998-10-12,68,3,9,12,24,12,0.41,0.2
+2017-18 | Regular Season,"Ouellet, Nicolas",F,N,"Val-d'Or, Foreurs",1999-01-09,54,6,2,3,11,8,0.29,0.09
+2017-18 | Regular Season,"Comtois, Maxime",F,N,"Victoriaville, Tigres",1999-01-08,54,8,8,5,21,16,0.25,0.1
+2017-18 | Regular Season,"Lefebvre, Simon",F,N,"Sherbrooke, Phoenix",1999-02-03,18,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Lessard, Antoine",F,N,"Victoriaville, Tigres",1999-01-29,1,0,0,0,0,0,,0
+2017-18 | Regular Season,"Meunier, Félix",F,N,"Acadie-Bathurst, Titan",1999-05-27,13,0,1,0,1,1,0.25,0
+2017-18 | Regular Season,"Klima, Kelly",F,N,"Chicoutimi, Saguenéens",1997-06-05,58,4,6,0,10,10,0.28,0.06
+2017-18 | Regular Season,"Klima, Kevin",F,N,"Chicoutimi, Saguenéens",1997-06-05,68,15,8,11,34,23,0.4,0.22
+2017-18 | Regular Season,"Manseau, Jérémy",F,N,"Shawinigan, Cataractes",1998-06-08,65,4,3,3,10,7,0.29,0.08
+2017-18 | Regular Season,"Bramwell, Connor",F,N,"Blainville-Boisbriand, Armada",1997-09-04,55,9,4,4,17,13,0.32,0.09
+2017-18 | Regular Season,"Abramov, Vitalii",F,N,"Gatineau, Olympiques",1998-05-08,56,12,13,6,31,25,0.3,0.17
+2017-18 | Regular Season,"Somppi, Otto",F,N,"Halifax, Mooseheads",1998-01-12,59,11,4,4,19,15,0.23,0.12
+2017-18 | Regular Season,"Miromanov, Daniil",D,N,"Moncton, Wildcats",1997-07-11,38,1,5,10,16,6,0.5,0.09
+2017-18 | Regular Season,"Reginato, Cole",F,N,"Saint John, Sea Dogs",1997-11-23,40,4,3,0,7,7,0.26,0.05
+2017-18 | Regular Season,"Grisé, Alexandre",F,N,"Victoriaville, Tigres",1998-10-02,59,1,1,0,2,2,0.12,0.01
+2017-18 | Regular Season,"Meisenheimer, Samuel",F,N,"Charlottetown, Islanders",1998-01-10,56,2,3,2,7,5,0.27,0.04
+2017-18 | Regular Season,"Barbosa, Ryan",D,N,"Halifax, Mooseheads",1998-01-05,38,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Gardiner, Nolan",F,N,"Baie-Comeau, Drakkar",1998-09-09,8,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Eastman, Austin",F,N,"Québec, Remparts",1997-05-06,18,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Blachman, Nicholas",F,N,"Rimouski, Océanic",1998-04-11,8,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Bernard, Xavier",D,Y,"Drummondville, Voltigeurs",2000-01-06,66,2,4,4,10,6,0.29,0.06
+2017-18 | Regular Season,"Abraham, Frédéric",F,Y,"Val-d'Or, Foreurs",2000-07-15,31,1,0,0,1,1,0.17,0.01
+2017-18 | Regular Season,"St-Laurent, Edouard",F,Y,"Baie-Comeau, Drakkar",2000-04-04,61,2,1,1,4,3,0.15,0.02
+2017-18 | Regular Season,"Groulx, Benoit-Olivier",F,Y,"Halifax, Mooseheads",2000-02-06,68,8,2,5,15,10,0.27,0.09
+2017-18 | Regular Season,"McIsaac, Jared",D,Y,"Halifax, Mooseheads",2000-03-27,65,4,11,6,21,15,0.45,0.13
+2017-18 | Regular Season,"Fortier, Gabriel",F,Y,"Baie-Comeau, Drakkar",2000-02-06,66,7,3,10,20,10,0.34,0.11
+2017-18 | Regular Season,"Bouchard, Xavier",D,Y,"Baie-Comeau, Drakkar",2000-02-28,65,0,2,5,7,2,0.33,0.04
+2017-18 | Regular Season,"Dobson, Noah",D,Y,"Acadie-Bathurst, Titan",2000-01-07,67,11,7,11,29,18,0.42,0.14
+2017-18 | Regular Season,"Laferrière, Mathias",F,Y,"Cape Breton, Screaming Eagles",2000-06-27,67,8,4,8,20,12,0.49,0.1
+2017-18 | Regular Season,"Houde, Samuel",F,Y,"Chicoutimi, Saguenéens",2000-03-08,54,7,1,6,14,8,0.44,0.09
+2017-18 | Regular Season,"Element, Shawn",F,Y,"Baie-Comeau, Drakkar",2000-04-23,62,4,0,0,4,4,0.21,0.02
+2017-18 | Regular Season,"MacDonald, Anderson",F,Y,"Moncton, Wildcats",2000-05-16,58,11,4,2,17,15,0.38,0.09
+2017-18 | Regular Season,"Mathieu, Olivier",F,Y,"Québec, Remparts",2000-02-25,66,3,3,0,6,6,0.29,0.03
+2017-18 | Regular Season,"Coxhead, Andrew",F,Y,"Québec, Remparts",2000-04-11,68,2,1,0,3,3,0.12,0.02
+2017-18 | Regular Season,"Desruisseaux, Cédric",F,Y,"Drummondville, Voltigeurs",2000-03-03,64,5,0,3,8,5,0.17,0.04
+2017-18 | Regular Season,"Alain, Marc-Olivier",D,Y,"Québec, Remparts",2000-07-06,21,0,0,0,0,0,,0
+2017-18 | Regular Season,"MacKinnon, Evan",F,Y,"Sherbrooke, Phoenix",2000-03-02,62,1,1,2,4,2,0.22,0.02
+2017-18 | Regular Season,"Henman, Luke",F,Y,"Blainville-Boisbriand, Armada",2000-04-29,61,3,9,7,19,12,0.4,0.09
+2017-18 | Regular Season,"Arsenault, Alexis",D,Y,"Rouyn-Noranda, Huskies",2000-05-17,65,0,0,0,0,0,0,0
+2017-18 | Regular Season,"D'Amours, Anthony",D,Y,"Rimouski, Océanic",2000-03-22,53,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Desgagnés, Mathieu",F,Y,"Chicoutimi, Saguenéens",2000-04-13,42,1,3,0,4,4,0.27,0.03
+2017-18 | Regular Season,"Tardif, Benjamin",F,Y,"Sherbrooke, Phoenix",2000-01-24,68,0,0,1,1,0,0.03,0.01
+2017-18 | Regular Season,"Desmarais, Guillaume",F,N,"Drummondville, Voltigeurs",2000-12-11,28,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Marcotty, Félix-Antoine",F,N,"Chicoutimi, Saguenéens",2000-12-17,59,1,0,3,4,1,0.14,0.03
+2017-18 | Regular Season,"Lavoie, Raphaël",F,N,"Halifax, Mooseheads",2000-09-25,68,4,9,4,17,13,0.27,0.11
+2017-18 | Regular Season,"Larose, Nathan",D,N,"Saint John, Sea Dogs",2000-09-24,64,0,1,1,2,1,0.14,0.02
+2017-18 | Regular Season,"McQuaid, Chris",D,Y,"Gatineau, Olympiques",2000-01-01,68,0,0,1,1,0,0.07,0
+2017-18 | Regular Season,"Denny, Leon",D,Y,"Shawinigan, Cataractes",2000-01-02,60,3,2,2,7,5,0.44,0.05
+2017-18 | Regular Season,"Denis, Gabriel",F,N,"Shawinigan, Cataractes",2000-11-06,66,1,1,3,5,2,0.16,0.04
+2017-18 | Regular Season,"Doyon, Nathaniel",F,Y,"Charlottetown, Islanders",2000-01-13,50,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Paré, Félix",F,Y,"Victoriaville, Tigres",2000-03-28,51,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Théorêt, Frédérik",F,Y,"Shawinigan, Cataractes",2000-01-08,49,2,1,1,4,3,0.4,0.03
+2017-18 | Regular Season,"Samson, Mathieu",F,N,"Shawinigan, Cataractes",2000-11-26,36,0,1,0,1,1,0.2,0.01
+2017-18 | Regular Season,"Ducharme, Justin",F,Y,"Acadie-Bathurst, Titan",2000-02-22,53,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Bourret, Olivier",F,Y,"Cape Breton, Screaming Eagles",2000-01-18,63,2,1,5,8,3,0.36,0.04
+2017-18 | Regular Season,"Imbeault, Anthony",F,N,"Shawinigan, Cataractes",2000-10-13,26,3,2,0,5,5,0.42,0.04
+2017-18 | Regular Season,"Crête-Belzile, Olivier",D,Y,"Sherbrooke, Phoenix",2000-09-02,67,0,2,2,4,2,0.25,0.02
+2017-18 | Regular Season,"Villeneuve, Gabriel",D,Y,"Chicoutimi, Saguenéens",2000-04-12,42,0,1,0,1,1,0.14,0.01
+2017-18 | Regular Season,"McCormick, Adam",D,Y,"Cape Breton, Screaming Eagles",2000-06-25,67,1,15,4,20,16,0.54,0.1
+2017-18 | Regular Season,"Massie, Noah",D,N,"Charlottetown, Islanders",1999-07-07,44,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Campbell, Isiah",F,N,"Cape Breton, Screaming Eagles",2000-12-07,61,2,1,1,4,3,0.17,0.02
+2017-18 | Regular Season,"Havlena, Kyle",D,Y,"Blainville-Boisbriand, Armada",2000-06-15,44,0,1,0,1,1,0.2,0
+2017-18 | Regular Season,"Plamondon, Yohan",F,Y,"Saint John, Sea Dogs",2000-02-02,20,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Bolduc, Samuel",D,N,"Blainville-Boisbriand, Armada",2000-12-09,57,0,0,1,1,0,0.07,0
+2017-18 | Regular Season,"Bergeron, Justin",D,Y,"Rouyn-Noranda, Huskies",2000-09-14,67,1,7,4,12,8,0.4,0.06
+2017-18 | Regular Season,"Caron, Thomas",F,Y,"Québec, Remparts",2000-08-29,14,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Hudson, Jacob",F,N,"Moncton, Wildcats",2000-12-02,64,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Roelens, Metis",F,Y,"Gatineau, Olympiques",2000-07-21,59,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Boudrias, Karl",D,Y,"Rimouski, Océanic",2000-04-01,60,0,3,0,3,3,0.25,0.03
+2017-18 | Regular Season,"MacLellan, Ryan",D,Y,"Cape Breton, Screaming Eagles",2000-02-03,31,0,1,0,1,1,0.2,0
+2017-18 | Regular Season,"Cyr-Trottier, Nathan",F,Y,"Val-d'Or, Foreurs",2000-01-21,64,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Hinam, Tyler",F,N,"Rouyn-Noranda, Huskies",1999-05-27,58,3,4,6,13,7,0.34,0.06
+2017-18 | Regular Season,"Dicaire, Derek",F,N,"Baie-Comeau, Drakkar",1999-08-18,24,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Laframboise, Jérémy",F,Y,"Québec, Remparts",2000-01-04,65,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Thibeault, Benjamin",D,Y,"Victoriaville, Tigres",2000-03-20,25,0,2,0,2,2,0.5,0.01
+2017-18 | Regular Season,"Baker, Jarrett",D,N,"Drummondville, Voltigeurs",2000-09-19,60,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Fortin, Philippe",D,Y,"Val-d'Or, Foreurs",2000-01-13,24,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Couture, Alexandre",F,Y,"Val-d'Or, Foreurs",2000-04-22,67,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Ianniciello, Samuel",F,Y,"Rouyn-Noranda, Huskies",2000-08-02,45,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Collin, Maxime",F,Y,"Blainville-Boisbriand, Armada",2000-01-25,55,0,0,0,0,0,0,0
+2017-18 | Regular Season,"McGrath, Kyle",F,N,"Cape Breton, Screaming Eagles",1999-04-16,33,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Casey, Thomas",F,Y,"Charlottetown, Islanders",2000-04-10,60,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Ouellet, Edouard",F,Y,"Victoriaville, Tigres",2000-01-14,54,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Dignard, Carl-Olivier",F,N,"Drummondville, Voltigeurs",2000-10-05,28,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Plamondon, Alex",F,Y,"Shawinigan, Cataractes",1999-10-14,58,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Mason, Kevin",F,Y,"Saint John, Sea Dogs",2000-01-12,25,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Savinsky, Hugo",D,Y,"Baie-Comeau, Drakkar",2000-01-18,44,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Demers, Antoine",F,N,"Shawinigan, Cataractes",1999-04-14,67,1,2,0,3,3,0.09,0.02
+2017-18 | Regular Season,"Proulx, Gabriel",F,N,"Cape Breton, Screaming Eagles",1999-03-24,57,0,0,2,2,0,0.08,0.01
+2017-18 | Regular Season,"Ouellet, Zachary",D,Y,"Rouyn-Noranda, Huskies",1999-10-26,31,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Tourigny, Félix-Antoine",F,Y,"Rouyn-Noranda, Huskies",2000-02-02,7,0,0,0,0,0,,0
+2017-18 | Regular Season,"Dubois-Tiberghen, Simon",D,Y,"Shawinigan, Cataractes",2000-03-16,51,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Drolet, Félix-Antoine",D,Y,"Acadie-Bathurst, Titan",2000-05-20,58,0,1,0,1,1,0.11,0
+2017-18 | Regular Season,"Lapointe, Yann-Félix",D,N,"Sherbrooke, Phoenix",1999-06-30,56,1,1,1,3,2,0.2,0.02
+2017-18 | Regular Season,"MacPhee, Ian",F,N,"Rouyn-Noranda, Huskies",1999-03-28,18,0,0,0,0,0,,0
+2017-18 | Regular Season,"Giguère, Charles-Antoine",F,N,"Blainville-Boisbriand, Armada",1999-05-03,53,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Haché, Olivier-Luc",F,N,"Rouyn-Noranda, Huskies",2000-10-04,21,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Marleau, Vincent",F,N,"Rouyn-Noranda, Huskies",1999-07-05,67,1,0,0,1,1,0.06,0
+2017-18 | Regular Season,"Dadadzhanov, Renat",D,N,"Shawinigan, Cataractes",1999-06-13,55,0,1,1,2,1,0.22,0.02
+2017-18 | Regular Season,"Malatesta, Domenic",F,N,"Acadie-Bathurst, Titan",1999-07-09,45,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Fox, Casey",F,N,"Moncton, Wildcats",1998-10-14,27,1,1,0,2,2,0.5,0.01
+2017-18 | Regular Season,"Gaudreau, Adam",D,Y,"Victoriaville, Tigres",1999-12-28,24,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Hudgin, Nathan",F,N,"Drummondville, Voltigeurs",1997-11-29,57,2,0,1,3,2,0.08,0.02
+2017-18 | Regular Season,"Chekhovich, Ivan",F,N,"Baie-Comeau, Drakkar",1999-01-04,65,12,5,6,23,17,0.38,0.13
+2017-18 | Regular Season,"Koltygin, Pavel",F,N,"Drummondville, Voltigeurs",1999-02-17,64,0,3,2,5,3,0.12,0.03
+2017-18 | Regular Season,"Alexeyev, Yaroslav",F,N,"Sherbrooke, Phoenix",1999-01-17,63,7,3,4,14,10,0.26,0.08
+2017-18 | Regular Season,"Kurashev, Philipp",F,Y,"Québec, Remparts",1999-10-12,59,8,9,11,28,17,0.47,0.15
+2017-18 | Regular Season,"Kosorenkov, Ivan",F,N,"Victoriaville, Tigres",1998-01-22,63,12,9,7,28,21,0.34,0.14
+2017-18 | Regular Season,"Rubtsov, German",F,N,"Acadie-Bathurst, Titan",1998-06-27,49,4,4,8,16,8,0.37,0.1
+2017-18 | Regular Season,"Vesterinen, Saku",D,N,"Charlottetown, Islanders",1999-02-28,59,3,5,8,16,8,0.46,0.12
+2017-18 | Regular Season,"Mikhnin, Denis",F,N,"Rimouski, Océanic",1999-07-11,64,3,3,1,7,6,0.18,0.05
+2017-18 | Regular Season,"Glotov, Vasily",F,N,"Shawinigan, Cataractes",1997-09-04,64,7,3,4,14,10,0.33,0.11
+2017-18 | Regular Season,"Le Coultre, Simon",D,N,"Moncton, Wildcats",1999-08-09,61,1,5,6,12,6,0.55,0.06
+2017-18 | Regular Season,"Kozlov, Ivan",F,N,"Val-d'Or, Foreurs",1999-03-26,66,4,6,0,10,10,0.28,0.08
+2017-18 | Regular Season,"Drozg, Jan",F,N,"Shawinigan, Cataractes",1999-04-01,61,5,10,5,20,15,0.4,0.15
+2017-18 | Regular Season,"Zachar, Marek",F,N,"Sherbrooke, Phoenix",1998-06-11,57,8,3,13,24,11,0.5,0.14
+2017-18 | Regular Season,"Gawanke, Leon",D,N,"Cape Breton, Screaming Eagles",1999-05-31,62,3,10,6,19,13,0.59,0.1
+2017-18 | Regular Season,"Mizyurin, Maxim",F,N,"Val-d'Or, Foreurs",1998-03-25,36,3,5,3,11,8,0.33,0.09
+2017-18 | Regular Season,"Smith, Tyler",D,N,"Saint John, Sea Dogs",1999-08-26,55,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Robert, Félix",F,N,"Sherbrooke, Phoenix",1999-07-24,66,4,2,8,14,6,0.3,0.08
+2017-18 | Regular Season,"Kielb, Darien",D,N,"Gatineau, Olympiques",1999-03-18,64,0,1,1,2,1,0.12,0.01
+2017-18 | Regular Season,"Senken, Connor",D,Y,"Sherbrooke, Phoenix",1999-10-31,51,0,2,0,2,2,0.33,0.01
+2017-18 | Regular Season,"Michel, Bryson",D,Y,"Saint John, Sea Dogs",1999-09-27,0,0,0,0,0,0,,0
+2017-18 | Regular Season,"Roy, Charles-Antoine",F,N,"Gatineau, Olympiques",1999-02-18,66,0,1,0,1,1,0.05,0.01
+2017-18 | Regular Season,"Malo, Alec",F,N,"Gatineau, Olympiques",1999-07-30,60,2,1,3,6,3,0.46,0.03
+2017-18 | Regular Season,"Monette, Simon",D,N,"Chicoutimi, Saguenéens",1999-08-12,52,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Denis, Louis-Philippe",F,N,"Rimouski, Océanic",1998-12-29,50,1,0,0,1,1,0.14,0.01
+2017-18 | Regular Season,"O'Bonsawin, Ryan",D,N,"Gatineau, Olympiques",1999-03-13,0,0,0,0,0,0,,0
+2017-18 | Regular Season,"Arsenault, Jacob",D,N,"Moncton, Wildcats",1999-04-13,60,0,0,0,0,0,0,0
+2017-18 | Regular Season,"DaSilva, Ryan",D,N,"Blainville-Boisbriand, Armada",1998-03-26,54,3,3,1,7,6,0.37,0.03
+2017-18 | Regular Season,"Cavalleri, Marco",F,N,"Victoriaville, Tigres",1999-09-05,37,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Hatto, Samuel",F,Y,"Gatineau, Olympiques",1999-10-23,66,1,0,0,1,1,0.08,0.01
+2017-18 | Regular Season,"Hardie, Daniel",F,N,"Charlottetown, Islanders",1998-06-11,68,4,5,8,17,9,0.32,0.13
+2017-18 | Regular Season,"Drew, Hunter",D,N,"Charlottetown, Islanders",1998-10-21,64,3,3,6,12,6,0.31,0.09
+2017-18 | Regular Season,"Stewart, Chase",D,N,"Rimouski, Océanic",1997-04-19,53,1,5,3,9,6,0.31,0.06
+2017-18 | Regular Season,"MacLeod, Gregor",F,N,"Charlottetown, Islanders",1998-06-07,54,3,4,4,11,7,0.24,0.08
+2017-18 | Regular Season,"Quinney, Landon",F,N,"Saint John, Sea Dogs",1998-04-27,27,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Dickner, Samuel",F,Y,"Baie-Comeau, Drakkar",1999-12-10,54,0,1,0,1,1,0.12,0.01
+2017-18 | Regular Season,"Lynch, Robert",F,N,"Drummondville, Voltigeurs",1998-06-16,67,7,11,4,22,18,0.33,0.12
+2017-18 | Regular Season,"Blackmore, G",F,N,"Moncton, Wildcats",1999-09-13,56,1,0,0,1,1,0.08,0.01
+2017-18 | Regular Season,"Lazure, Justin",F,N,"Cape Breton, Screaming Eagles",1999-02-05,46,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Lafrenière, Alexis",F,N,"Rimouski, Océanic",2001-10-11,60,7,5,12,24,12,0.3,0.16
+2017-18 | Regular Season,"Poulin, Samuel",F,N,"Sherbrooke, Phoenix",2001-02-25,55,4,5,2,11,9,0.24,0.07
+2017-18 | Regular Season,"Pelletier, Jakob",F,N,"Moncton, Wildcats",2001-03-07,60,3,7,7,17,10,0.28,0.09
+2017-18 | Regular Season,"Parent, Xavier",F,N,"Halifax, Mooseheads",2001-03-23,63,2,2,2,6,4,0.21,0.04
+2017-18 | Regular Season,"Guenette, Maxence",D,N,"Val-d'Or, Foreurs",2001-04-28,61,0,3,2,5,3,0.42,0.04
+2017-18 | Regular Season,"Légaré, Nathan",F,N,"Baie-Comeau, Drakkar",2001-01-11,62,2,3,0,5,5,0.17,0.03
+2017-18 | Regular Season,"Merisier-Ortiz, Christopher",D,N,"Baie-Comeau, Drakkar",2001-01-17,62,0,4,4,8,4,0.53,0.05
+2017-18 | Regular Season,"Mercer, Dawson",F,N,"Drummondville, Voltigeurs",2001-10-27,61,2,2,2,6,4,0.23,0.03
+2017-18 | Regular Season,"Simoneau, Xavier",F,N,"Drummondville, Voltigeurs",2001-05-19,61,2,5,1,8,7,0.18,0.04
+2017-18 | Regular Season,"Inniss, Christopher",D,N,"Rimouski, Océanic",2001-01-22,52,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Peach, Bailey",F,N,"Sherbrooke, Phoenix",2001-03-08,49,0,1,1,2,1,0.29,0.01
+2017-18 | Regular Season,"Bizier, Mathieu",F,N,"Rimouski, Océanic",2001-05-13,64,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Barron, Justin",D,N,"Halifax, Mooseheads",2001-11-15,51,0,2,1,3,2,0.14,0.02
+2017-18 | Regular Season,"Laaouan, Noah",D,N,"Cape Breton, Screaming Eagles",2001-03-07,49,0,1,1,2,1,0.14,0.01
+2017-18 | Regular Season,"Kalmikov, Brooklyn",F,N,"Cape Breton, Screaming Eagles",2001-04-21,58,7,2,8,17,9,0.47,0.08
+2017-18 | Regular Season,"Bellamy, Jaxon",D,N,"Moncton, Wildcats",2001-01-22,52,1,0,1,2,1,0.2,0.01
+2017-18 | Regular Season,"Michel, Jérémy",F,N,"Val-d'Or, Foreurs",2001-05-02,65,1,1,3,5,2,0.22,0.04
+2017-18 | Regular Season,"Dubé, Pierrick",F,N,"Québec, Remparts",2001-01-07,39,0,0,1,1,0,0.25,0.01
+2017-18 | Regular Season,"Pelletier, Thomas",D,N,"Drummondville, Voltigeurs",2001-08-23,42,1,0,1,2,1,0.22,0.01
+2017-18 | Regular Season,"Francis, Ryan",F,N,"Cape Breton, Screaming Eagles",2001-12-02,58,5,3,5,13,8,0.38,0.06
+2017-18 | Regular Season,"Beaucage, Alex",F,N,"Rouyn-Noranda, Huskies",2001-07-25,56,4,2,4,10,6,0.27,0.05
+2017-18 | Regular Season,"Budgell, Brett",F,N,"Charlottetown, Islanders",2001-06-01,32,2,2,1,5,4,0.23,0.04
+2017-18 | Regular Season,"Gallant, Carson",D,N,"Gatineau, Olympiques",2001-01-11,24,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Martin, Jérémy",F,N,"Shawinigan, Cataractes",2001-02-15,34,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Desroches, Olivier",D,N,"Acadie-Bathurst, Titan",2001-03-27,55,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Chisholm, Logan",F,N,"Acadie-Bathurst, Titan",2001-08-08,51,1,0,2,3,1,0.27,0.01
+2017-18 | Regular Season,"Allepot, Anthony",D,N,"Val-d'Or, Foreurs",2001-04-27,58,0,0,1,1,0,0.2,0.01
+2017-18 | Regular Season,"Bernard, Jacob",D,N,"Rimouski, Océanic",2001-02-20,17,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Belley-Pelletier, Gabriel",D,N,"Shawinigan, Cataractes",2001-05-30,1,0,0,0,0,0,,0
+2017-18 | Regular Season,"Stewart, Cole",F,N,"Halifax, Mooseheads",2001-08-01,6,0,0,0,0,0,,0
+2017-18 | Regular Season,"Cormier, Xavier",F,N,"Québec, Remparts",2001-05-30,1,0,0,0,0,0,,0
+2017-18 | Regular Season,"Horvath, Jason",D,Y,"Shawinigan, Cataractes",2000-03-24,48,3,2,2,7,5,0.44,0.05
+2017-18 | Regular Season,"Montreuil, Gabriel",F,N,"Québec, Remparts",2001-03-09,2,0,0,0,0,0,,0
+2017-18 | Regular Season,"Sibley, Brendan",D,N,"Saint John, Sea Dogs",2001-04-26,30,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Joncas, Alexandre",D,N,"Sherbrooke, Phoenix",2001-03-22,68,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Soucy, Ludovic",F,N,"Rimouski, Océanic",2001-03-23,40,0,0,0,0,0,0,0
+2017-18 | Regular Season,"MacIntosh, Aiden",F,N,"Saint John, Sea Dogs",2001-04-05,29,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Melançon, Max-Antoine",F,N,"Shawinigan, Cataractes",2001-03-19,22,0,1,0,1,1,0.17,0.01
+2017-18 | Regular Season,"Boulianne, Mathieu",F,N,"Shawinigan, Cataractes",2001-03-26,24,1,0,0,1,1,0.17,0.01
+2017-18 | Regular Season,"Boissonneault, Mathieu",F,Y,"Blainville-Boisbriand, Armada",2000-04-16,56,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Petten, Kyle",F,N,"Halifax, Mooseheads",2001-01-10,44,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Hébert, Jérémie",D,N,"Baie-Comeau, Drakkar",2001-11-19,30,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Nault-Daigle, Ludovick",F,N,"Shawinigan, Cataractes",2001-10-03,0,0,0,0,0,0,,0
+2017-18 | Regular Season,"Fraser, Cole",F,N,"Blainville-Boisbriand, Armada",2001-01-24,2,0,0,0,0,0,,0
+2017-18 | Regular Season,"Tremblay, Charles",F,N,"Chicoutimi, Saguenéens",2000-10-17,24,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Virtue, Braeden",D,N,"Québec, Remparts",2001-01-22,27,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Wilson, Luke",F,N,"Saint John, Sea Dogs",2001-03-01,38,0,0,0,0,0,0,0
+2017-18 | Regular Season,"DeGagné, Alex",D,Y,"Shawinigan, Cataractes",2000-02-15,50,0,5,1,6,5,0.6,0.05
+2017-18 | Regular Season,"Hart, Gavin",F,N,"Halifax, Mooseheads",2001-05-10,2,0,0,0,0,0,,0
+2017-18 | Regular Season,"Bennett, Zachery",D,Y,"Acadie-Bathurst, Titan",2000-07-02,9,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Dion, Benjamin",F,N,"Val-d'Or, Foreurs",2001-04-04,59,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Lavoie, Jean-Mathieu",D,N,"Sherbrooke, Phoenix",1998-09-10,5,0,0,0,0,0,,0
+2017-18 | Regular Season,"Lafond, Jérôme",D,Y,"Shawinigan, Cataractes",2000-08-20,0,0,0,0,0,0,,0
+2017-18 | Regular Season,"Beaudoin, Tommy",F,N,"Rouyn-Noranda, Huskies",1999-03-15,66,6,1,2,9,7,0.3,0.04
+2017-18 | Regular Season,"Maurovic, Dallas",F,N,"Chicoutimi, Saguenéens",1999-04-30,4,0,0,0,0,0,,0
+2017-18 | Regular Season,"Gladu, Zachary",F,N,"Val-d'Or, Foreurs",1998-01-20,17,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Kurbatov, Egor",F,N,"Victoriaville, Tigres",1999-05-17,18,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Wieringa, Jack",D,N,"Moncton, Wildcats",1998-03-27,16,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Kuzmin, Daniil",F,N,"Moncton, Wildcats",1999-05-20,48,0,0,1,1,0,0.11,0.01
+2017-18 | Regular Season,"Dunn, Sam",D,N,"Québec, Remparts",1998-03-11,66,3,7,8,18,10,0.56,0.09
+2017-18 | Regular Season,"Khovanov, Alexander",F,Y,"Moncton, Wildcats",2000-04-12,29,3,4,4,11,7,0.39,0.06
+2017-18 | Regular Season,"Zavgorodniy, Dmitry",F,Y,"Rimouski, Océanic",2000-08-11,62,9,4,3,16,13,0.34,0.11
+2017-18 | Regular Season,"Zadina, Filip",F,Y,"Halifax, Mooseheads",1999-11-27,57,8,4,8,20,12,0.24,0.13
+2017-18 | Regular Season,"Eckl, Bastian",F,Y,"Drummondville, Voltigeurs",2000-08-27,46,1,0,1,2,1,0.11,0.01
+2017-18 | Regular Season,"Dajcar, Tomas",D,Y,"Québec, Remparts",2000-02-02,42,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Shestopalov, Mikhail",F,Y,"Gatineau, Olympiques",2000-01-25,59,1,2,1,4,3,0.16,0.02
+2017-18 | Regular Season,"Kotkov, Vladislav",F,Y,"Chicoutimi, Saguenéens",2000-01-08,61,7,12,2,21,19,0.43,0.13
+2017-18 | Regular Season,"Sokolov, Egor",F,Y,"Cape Breton, Screaming Eagles",2000-06-07,64,9,0,5,14,9,0.33,0.07
+2017-18 | Regular Season,"Ivan, Michal",D,Y,"Acadie-Bathurst, Titan",1999-11-18,48,0,0,3,3,0,0.18,0.01
+2017-18 | Regular Season,"Hladonik, Jan",F,N,"Blainville-Boisbriand, Armada",1999-08-18,56,0,3,1,4,3,0.21,0.02
+2017-18 | Regular Season,"Hrehorcak, Patrik",F,N,"Rouyn-Noranda, Huskies",1999-03-18,63,9,5,3,17,14,0.35,0.08
+2017-18 | Regular Season,"Alexandrov, Nikita",F,N,"Charlottetown, Islanders",2000-09-16,66,2,1,1,4,3,0.13,0.03
+2017-18 | Regular Season,"Safin, Ostap",F,N,"Saint John, Sea Dogs",1999-02-11,61,9,9,3,21,18,0.36,0.16
+2017-18 | Regular Season,"Roganov, Danil",D,Y,"Shawinigan, Cataractes",2000-06-28,0,0,0,0,0,0,,0
+2017-18 | Regular Season,"Anttalainen, Aleksi",D,N,"Blainville-Boisbriand, Armada",1999-03-28,61,0,0,4,4,0,0.18,0.02
+2017-18 | Regular Season,"Salda, Radim",D,N,"Saint John, Sea Dogs",1999-02-18,62,5,8,7,20,13,0.49,0.15
+2017-18 | Regular Season,"McKenna, Colton",F,N,"Moncton, Wildcats",1999-08-17,17,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Kyte, Patrick",D,N,"Halifax, Mooseheads",1999-03-29,56,0,2,1,3,2,0.2,0.02
+2017-18 | Regular Season,"Jarry, Loïc",D,Y,"Val-d'Or, Foreurs",2000-07-08,41,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Figueira, Damian",D,N,"Drummondville, Voltigeurs",1998-11-24,6,0,0,0,0,0,,0
+2017-18 | Regular Season,"Skubel, Brandon",F,Y,"Drummondville, Voltigeurs",1999-10-02,60,0,1,0,1,1,0.04,0.01
+2017-18 | Regular Season,"Pataki, Brady",F,N,"Moncton, Wildcats",1998-10-03,47,1,0,0,1,1,0.07,0.01
+2017-18 | Regular Season,"Ouellet, Nathan",F,Y,"Rimouski, Océanic",2000-05-25,41,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Vaysberg, David",F,N,"Shawinigan, Cataractes",2000-12-15,8,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Clavelle, Brendon",D,N,"Charlottetown, Islanders",1999-09-10,56,0,1,1,2,1,0.29,0.02
+2017-18 | Regular Season,"MacRae, Riley",F,N,"Moncton, Wildcats",1998-03-28,22,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Tucker, Jack",D,Y,"Moncton, Wildcats",2000-05-26,53,1,1,0,2,2,0.33,0.01
+2017-18 | Regular Season,"Kreutzer, Gregory",D,Y,"Drummondville, Voltigeurs",2000-05-24,53,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Bowman, Parker",F,N,"Rimouski, Océanic",1999-07-09,58,0,0,1,1,0,0.1,0.01
+2017-18 | Regular Season,"Paré, Mathieu",D,N,"Shawinigan, Cataractes",2000-10-03,0,0,0,0,0,0,,0
+2017-18 | Regular Season,"Hungerbuhler, Tyler",D,Y,"Saint John, Sea Dogs",2000-03-02,24,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Gursoy, Kevin",F,N,"Saint John, Sea Dogs",1999-08-04,60,4,1,1,6,5,0.33,0.05
+2017-18 | Regular Season,"Duchesne, Samuel",D,N,"Chicoutimi, Saguenéens",1999-05-29,37,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Ton, Cayse",F,N,"Charlottetown, Islanders",1999-07-28,60,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Allison, Jaimen",D,Y,"Charlottetown, Islanders",1999-11-01,0,0,0,0,0,0,,0
+2017-18 | Regular Season,"Egan, Taylor",D,N,"Charlottetown, Islanders",1998-06-09,50,1,2,0,3,3,0.3,0.02
+2017-18 | Regular Season,"Dunda, Liam",F,N,"Moncton, Wildcats",1997-09-15,33,1,0,1,2,1,0.15,0.01
+2017-18 | Regular Season,"Berube, Marcel",F,Y,"Charlottetown, Islanders",1999-12-14,31,0,0,0,0,0,0,0
+2017-18 | Regular Season,"West, Kyle",F,N,"Charlottetown, Islanders",1998-03-28,5,0,0,0,0,0,,0
+2017-18 | Regular Season,"Hanna, Quinn",D,N,"Blainville-Boisbriand, Armada",1999-04-14,32,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Burt, Robbie",F,N,"Saint John, Sea Dogs",1999-05-29,55,2,0,3,5,2,0.19,0.04
+2017-18 | Regular Season,"Deakin-Poot, Nicholas",F,N,"Saint John, Sea Dogs",1999-01-28,18,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Finoro, Giordano",F,N,"Gatineau, Olympiques",1998-05-17,57,2,2,2,6,4,0.15,0.03
+2017-18 | Regular Season,"Seitz, Dylan",F,N,"Moncton, Wildcats",1999-01-15,57,5,1,0,6,6,0.19,0.03
+2017-18 | Regular Season,"Sparkes, Sullivan",F,N,"Charlottetown, Islanders",1999-05-04,60,2,0,0,2,2,0.07,0.02
+2017-18 | Regular Season,"Stevens, Liam",F,N,"Chicoutimi, Saguenéens",1999-04-23,61,1,0,1,2,1,0.12,0.01
+2017-18 | Regular Season,"Johnson, Kolby",F,N,"Sherbrooke, Phoenix",1998-05-12,41,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Kirwan, Luke",F,N,"Baie-Comeau, Drakkar",1997-09-23,47,9,5,4,18,14,0.49,0.1
+2017-18 | Regular Season,"Smith, Ryan",F,N,"Chicoutimi, Saguenéens",1999-06-04,54,0,0,2,2,0,0.15,0.01
+2017-18 | Regular Season,"Auger, Kyle",D,N,"Moncton, Wildcats",1999-01-02,13,0,0,0,0,0,0,0
+2017-18 | Regular Season,"O'Reilly, Brendan",D,N,"Saint John, Sea Dogs",1997-05-15,31,1,0,2,3,1,0.6,0.02
+2017-18 | Regular Season,"Peyton, Liam",F,Y,"Charlottetown, Islanders",2000-03-30,38,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Anderson, Joshua",D,N,"Rimouski, Océanic",1999-06-14,19,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Sandilands, Roddie",D,N,"Shawinigan, Cataractes",1999-06-14,25,0,0,0,0,0,0,0
+2017-18 | Regular Season,"Templeton, Stephen",D,N,"Chicoutimi, Saguenéens",1997-01-26,29,0,0,1,1,0,0.14,0.01
+2017-18 | Regular Season,"Martin, Calvin",F,Y,"Val-d'Or, Foreurs",1999-09-16,28,0,0,0,0,0,0,0

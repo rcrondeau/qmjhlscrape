@@ -1,0 +1,101 @@
+---
+logo: images/hdb_analytics.png
+output: 
+  flexdashboard::flex_dashboard:
+    theme: readable
+    orientation: rows
+    vertical_layout: fill
+    source_code: embed
+runtime: shiny
+---
+
+```{r global, include=FALSE, echo=FALSE}
+library(flexdashboard)
+library(shiny)
+library(DT)
+library(shinythemes)
+library(formattable)
+rosterTable <- read.csv('data/rosterTable.csv', fileEncoding="UTF-8")
+rosterTable.stats <- read.csv('data/rosterTable_stats.csv', fileEncoding="UTF-8")
+rosterTable.ev <- read.csv('data/rosterTable_ev.csv', fileEncoding="UTF-8")
+rosterTable.pp <- read.csv('data/rosterTable_pp.csv', fileEncoding="UTF-8")
+data.table::setDT(rosterTable.stats)
+data.table::setDT(rosterTable.pp)
+data.table::setDT(rosterTable.ev)
+#Get Filter Lists
+team.names <- rosterTable$teamname
+#team.names <- c(team.names, "All")
+season.names <- rosterTable$season.name
+#season.names <- c(season.names, "All")
+draft.eligible <- rosterTable$draft.eligible
+#draft.eligible <- c(draft.eligible, "Both")
+position.f <- rosterTable$pos.clean
+#position.f <- c(position.f, "Both")
+
+
+#source('qmjhl_clean_tables.R')
+```
+
+Row {data-height=50}
+-----------------------------------------------------------------------
+
+
+
+```{r}
+selectInput("teams","Choose Team", choices=sort(c("All", as.vector(unique(team.names)))), selected = "All", multiple=FALSE)
+selectInput("seasons","Choose Season", choices=sort(c("", as.vector(unique(season.names)))), selected = "2017-18 | Regular Season", multiple=TRUE)
+```
+
+
+
+```{r}
+selectInput("draft.eligible","Draft Eligibility", choices=c("All", as.vector(unique(draft.eligible))), selected = "All",  multiple=FALSE)
+selectInput("position.f","Position", choices = c("All", as.vector(unique(position.f))), selected = "All", multiple = FALSE)
+```
+
+Row {data-height=500}
+-----------------------------------------------------------------------
+
+
+
+```{r}
+filter1_rows <- reactive({if (input$teams == "All") {
+    rosterTable.stats[rosterTable.stats$Team %in% sort(c("", as.vector(unique(team.names)))), which = TRUE]
+  } else
+    rosterTable.stats[rosterTable.stats$Team %in% input$teams, which = TRUE]
+  })
+  filter2_rows <- reactive({
+    rosterTable.stats[rosterTable.stats$Season %in% input$seasons, which = TRUE]
+  })
+  filter3_rows <- reactive({if (input$draft.eligible == "All") {
+    rosterTable.stats[rosterTable.stats$Draft.Eligible %in% c("", as.vector(unique(draft.eligible))), which = TRUE]
+  } else
+    rosterTable.stats[rosterTable.stats$Draft.Eligible %in% input$draft.eligible, which = TRUE]
+  })
+  filter4_rows <- reactive({if (input$position.f == "All") {
+    rosterTable.stats[rosterTable.stats$Position %in% c("", as.vector(unique(position.f))), which = TRUE]
+  } else
+    rosterTable.stats[rosterTable.stats$Position %in% input$position.f, which = TRUE]
+  })
+DT::renderDataTable({
+    final_rows <- intersect(filter1_rows(), filter2_rows())
+    final_rows <- intersect(final_rows,     filter3_rows())
+    final_rows <- intersect(final_rows,     filter4_rows())
+    final_table <- rosterTable.stats[final_rows]
+    formattable(final_table, list(
+  PTS = color_tile("white", "green"),
+  PRIMARY.PTS = color_tile("white", "green"),
+  PERC.TEAM.PTS = formatter("span",
+                            style = x ~ style(color = ifelse(rank(-x) <= 50, "green", "gray")),
+                            x ~ sprintf("%.2f (rank: %02d)", x, rank(-x))),
+  Draft.Eligible = formatter("span",
+                             style = x ~ style(color = ifelse(x, "green", "red")),
+                             x ~ icontext(ifelse(x, "ok", "remove"), ifelse(x, "Yes", "No")))
+  
+))
+  },
+  filter = 'none',
+  options = list(pageLength = 30, autoWidth = TRUE ,dom = 'tlp', order = list(list(11, 'desc')), list(scrolly = TRUE) ,columnDefs = list(list(visible=FALSE, targets=0))),
+  rownames = TRUE
+)
+```
