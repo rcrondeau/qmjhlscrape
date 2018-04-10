@@ -4,10 +4,6 @@ dt.pbp <- pxpALL
 dt.box <- boxALL
 dt.box$gpkey.box <- paste(dt.box$player_id, dt.box$seasonid, sep = "")
 dt.team <- teamsALL
- 
- #FILTER PBP BY GOALS
-# whl.goals.all <- filter(whl.pbp, event == "goal")
-# 
 
 # CREATE SCORING DATA TABLE
 
@@ -218,6 +214,3 @@ dt.rosters.final <- dt.rosters.final[!duplicated(dt.rosters.final[, c("player_id
 
 #Remove Goalies
 dt.rosters.final <- data.table(filter(dt.rosters.final, !grepl("G",position)))
-
-fwrite(dt.rosters.final, paste(c("C:\\Users\\rrondeau\\OneDrive\\Documents\\R Data\\ohl_rosters_scoring", season.name, ".csv"), collapse = ""))
-#fwrite(dt.rosters.final, paste(c("C:\\Users\\ryanr\\OneDrive\\Documents\\R Data\\ohl_rosters_scoring", season.name, ".csv"), collapse = ""))
