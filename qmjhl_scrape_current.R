@@ -24,11 +24,6 @@ boxALL <- data.table()
 json <- fromJSON("http://cluster.leaguestat.com/feed/?feed=modulekit&view=seasons&key=c680916776709578&fmt=json&client_code=lhjmq&lang=en&league_code=&fmt=json")
 season <- data.table(json$SiteKit$Seasons)
 
-#Write Seasons to CSV
-#fwrite(season, "C:\\Users\\rrondeau\\OneDrive\\Documents\\R Data\\lhjmq_seasons.csv")
-#fwrite(season, "C:\\Users\\ryanr\\OneDrive\\Documents\\R Data\\lhjmq_seasons.csv")
-
-
 #lhjmq Schedule
 season.filter <- filter(season, career == 1)
 season.filter <- filter(season.filter, playoff == 0)
@@ -45,11 +40,6 @@ schedule$season.name <- season.name
 scheduleALL <- rbind(scheduleALL, schedule)
 print(paste(c("Record ", 1, " of ", nrow(season)), collapse = ""))
 
-#Write Schedule to CSV
-#fwrite(scheduleALL, paste(c("C:\\Users\\rrondeau\\OneDrive\\Documents\\R Data\\lhjmq_schedule", season.name, ".csv"), collapse = ""))
-#fwrite(scheduleALL, paste(c("C:\\Users\\ryanr\\OneDrive\\Documents\\R Data\\lhjmq_schedule", season.name, ".csv"), collapse = ""))
-
-
 #lhjmq Teams
 seasonid <- season.filter$season_id[1]
 season.name <- season.filter$season_name[1]
@@ -60,10 +50,6 @@ teams$seasonid <- seasonid
 teams$season.name <- season.name
 teamsALL <- rbind(teamsALL, teams)
 print(paste(c("Record ", 1, " of ", 1), collapse = ""))
-
-#Write Teams to CSV
-#fwrite(teamsALL, paste(c("C:\\Users\\rrondeau\\OneDrive\\Documents\\R Data\\lhjmq_teams_", season.name, ".csv"), collapse = ""))
-#fwrite(teamsALL, paste(c("C:\\Users\\ryanr\\OneDrive\\Documents\\R Data\\lhjmq_teams_", season.name, ".csv"), collapse = ""))
 
 #lhjmq Roster
 for (i in 1:nrow(teamsALL)) {
@@ -104,11 +90,6 @@ rosterALL <- data.frame(rosterALL)
 rosterALL <- data.table(rosterALL)
 rosterALL <- rosterALL[, lapply(.SD, as.character)]
 
-#Write Roster to CSV
-#fwrite(rosterALL, paste(c("C:\\Users\\rrondeau\\OneDrive\\Documents\\R Data\\lhjmq_roster_", season.name, ".csv"), collapse = ""))
-#fwrite(rosterALL, paste(c("C:\\Users\\ryanr\\OneDrive\\Documents\\R Data\\lhjmq_roster_", season.name, ".csv"), collapse = ""))
-
-
 #lhjmq Boxscores
 scheduleBOX <- filter(scheduleALL, status == 4)
 for (i in 1:nrow(scheduleBOX)) {
@@ -140,10 +121,6 @@ for (i in 1:nrow(scheduleBOX)) {
   print(paste(c("Record ", i, " of ", nrow(scheduleBOX)), collapse = ""))
 }
 
-#Write Box Scores to CSV
-#fwrite(boxALL, paste(c("C:\\Users\\rrondeau\\OneDrive\\Documents\\R Data\\lhjmq_box_", season.name, ".csv"), collapse = ""))
-#fwrite(boxALL, paste(c("C:\\Users\\ryanr\\OneDrive\\Documents\\R Data\\lhjmq_box_", season.name, ".csv"), collapse = ""))
-
 #lhjmq PXP
 schedulePXP <- filter(scheduleALL, status == 4)
 for (i in 1:nrow(schedulePXP)) {
@@ -173,11 +150,6 @@ for (i in 1:nrow(schedulePXP)) {
 pxpALL.save <- lapply(pxpALL, as.character)
 pxpALL.save <- data.frame(pxpALL.save)
 pxpALL <- data.table(pxpALL)
-
-#Write PXP to CSV
-#fwrite(pxpALL.save, paste(c("C:\\Users\\rrondeau\\OneDrive\\Documents\\R Data\\lhjmq_pxp_", season.name, ".csv"), collapse = ""))
-#fwrite(pxpALL.save, paste(c("C:\\Users\\ryanr\\OneDrive\\Documents\\R Data\\lhjmq_pxp_", season.name, ".csv"), collapse = ""))
-
 
 #Plus Minus
 dt.plus.all <- data.table()
@@ -242,14 +214,3 @@ dt.goals.sh <- filter(dt.goals.all, short_handed == 1)
 dt.goals.en <- filter(dt.goals.all, empty_net == 1)
 dt.goals.ps <- filter(dt.goals.all, penalty_shot == 1)
 dt.goals.ev <- subset(dt.goals.all, power_play == 0 & short_handed == 0 & empty_net == 0 & penalty_shot == 0)
-
-
-
-#Write to CSV
-#fwrite(dt.plus.all, paste(c("C:\\Users\\rrondeau\\OneDrive\\Documents\\R Data\\lhjmq_plus_", season.name, ".csv"), collapse = ""))
-#fwrite(dt.minus.all, paste(c("C:\\Users\\rrondeau\\OneDrive\\Documents\\R Data\\lhjmq_minus_", season.name, ".csv"), collapse = ""))
-#fwrite(dt.plus.all, paste(c("C:\\Users\\ryanr\\OneDrive\\Documents\\R Data\\lhjmq_plus_", season.name, ".csv"), collapse = ""))
-#fwrite(dt.minus.all, paste(c("C:\\Users\\ryanr\\OneDrive\\Documents\\R Data\\lhjmq_minus_", season.name, ".csv"), collapse = ""))
-
-source("qmjhl_scoring_data.R")
-source("qmjhl_clean_tables.R")
