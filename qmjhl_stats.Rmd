@@ -1,5 +1,5 @@
 ---
-logo: images/hdb_analytics.png
+logo: images/sdb_analytics.png
 output: 
   flexdashboard::flex_dashboard:
     theme: readable
